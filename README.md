@@ -58,3 +58,5 @@ I have used the Spark to implement the parallel code. Here I have used Java, Lam
 |Class-25|Maths-012|10|SB-102|Dr P Smith Rez|Thu 9:00 -  11:00|
 |Class-26|Physics-1|10|SB-102|Dr R Williams|Wed 13:00 - 15:00|
 
+### How to build the TTG - CUDA
+- Refer to the readme file inside the "TTG - CUDA" folder, it is assumed that an nvcc compiler and a suitbable graphic card is pre installed.
